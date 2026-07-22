@@ -1,1 +1,9 @@
+# Dependencias principales para el Dashboard de LaLiga & Fantasy
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
 
+# Opcionales para futuras integraciones y visualizaciones avanzadas
+matplotlib>=3.7.0
+plotly>=5.15.0
+requests>=2.30.0
